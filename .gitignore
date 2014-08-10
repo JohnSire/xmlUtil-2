@@ -1,10 +1,26 @@
 *.class
 
+# IDEA files #
+##############
+.idea/*
+*.iws
+*.iml
+*idea*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
